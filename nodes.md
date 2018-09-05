@@ -32,7 +32,6 @@ If you are concerned about revealing this information to any of these 3rd party 
 - https://api.eos.bitspace.no - operated by [Bitspace](https://eos.bitspace.no/)
 - https://node.eosflare.io - operated by [EOS Flare](https://eosflare.io/)
 - https://api-eos.blckchnd.com - operated by [BLCKCHND](https://eos.blckchnd.com/)
-- https://mainnet.eosimpera.com - operated by [EOS IMPERA](https://www.eosimpera.io/)
 
 ### Additions
 
